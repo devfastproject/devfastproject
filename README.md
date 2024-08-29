@@ -1,5 +1,3 @@
-Here's the English version with emojis:
-
 ## 👋 Welcome to DevFast Project
 
 DevFast Project is an independent Cuban organization dedicated to developing innovative and accessible technological solutions. 🚀 Our team consists of talented developers, experienced moderators, creative designers, and a 24/7 support team. 💪
